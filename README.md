@@ -1,8 +1,8 @@
 # add-project-to-github-repository
 
-#Adding an existing project to GitHub using the command line
+#How to add an existing project to GitHub using the command line
 
-Simple steps to add existing project to Github.
+Simple steps to add existing projects to Github.
 
 ## 1. Create a new repository on GitHub.
 In Terminal, change the current working directory to your local project.
